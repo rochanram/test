@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "e8f47805-d4c1-4b88-ae13-88d480dd7104",
+		"name": "test",
+		"description": "fewfdeq\n\nfsad",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "274079-e8f47805-d4c1-4b88-ae13-88d480dd7104"
+	},
+	"item": [
+		{
+			"name": "dqwsd",
+			"id": "d9dd4fd2-fcea-427e-9676-5d5d01d79a85",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "dqwsd Copy",
+			"id": "6e456dac-5f21-4344-9ed0-75169451bc3f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
