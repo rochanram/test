@@ -9,6 +9,7 @@ id = 878e8f78-8508-4bff-a5f0-f6941eb7b23f
 
 [config.relations.collections]
 rootDirectory = q
+files[] = {"id":"274079-7bfba0d9-e8d6-4a96-908c-e796927eeded","path":"qwe.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"enableOptionalParameters\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"alwaysInheritAuthentication\":false,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Schema\",\"exampleParametersResolution\":\"Schema\"}"}}
 
 [config.relations.collections.metaData]
 
